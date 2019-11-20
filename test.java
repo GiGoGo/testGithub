@@ -6,5 +6,5 @@ class ListNode{
         this.next = next;
     }
 
-    int key;
+    int position;
 }
