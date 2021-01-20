@@ -13,5 +13,6 @@ class Solution {
 	public void yell(){
 		System.out.println("GG!");
 	}
+	a = 1;
 
 }
